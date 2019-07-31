@@ -1,0 +1,5 @@
+﻿1, Pardubice, Hlavní Nádraží, Pardubický Kraj, Hlavní nádraží ve městě Pardubice, 1
+2, Pardubice, Rosice n.L, Pardubický Kraj, NULL, 1
+
+3, Pardubice, Závodiště, Pardubický Kraj, NULL, 0
+4, Hradec Králové, Hlavní Nádraží, Královehradecký Kraj, NULL, 0
